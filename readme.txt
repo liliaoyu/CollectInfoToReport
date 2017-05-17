@@ -1,0 +1,1 @@
+Collect data from source excel files and summarize into target excel file.
