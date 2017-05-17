@@ -1,0 +1,5 @@
+AbsolutePathDefault=F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+AbsolutePaths=AbsolutePath,AbsolutePath,AbsolutePath
+FileNames=R17.1_VIT_ASE_Test_Plan.xlsx,R17.1_VIT_CWM_Test_Plan.xlsx,R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm
+SheetNames=TestCases,TestCases,TestCases
+Anchors=226|9,27|12,11|18

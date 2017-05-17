@@ -1,0 +1,34 @@
+Tue, 16 May 2017 15:31:26 ParseConfig.py[line:72] WARNING >>>>>>>> Starting ParseConfig.py @ 2017-05-16 15:31:26.313000
+
+Tue, 16 May 2017 15:31:26 ParseConfig.py[line:74] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Tue, 16 May 2017 15:31:26 ParseConfig.py[line:72] WARNING <<<<<<<< Ending ParseConfig.py @ 2017-05-16 15:31:26.793000
+
+Tue, 16 May 2017 15:32:36 ParseConfig.py[line:76] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-16 15:32:36.482000
+
+Tue, 16 May 2017 15:32:36 ParseConfig.py[line:74] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Tue, 16 May 2017 15:32:37 ParseConfig.py[line:76] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-16 15:32:37.072000
+
+Tue, 16 May 2017 15:38:02 ParseConfig.py[line:76] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-16 15:38:02.933000
+
+Tue, 16 May 2017 15:38:02 ParseConfig.py[line:74] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Tue, 16 May 2017 15:40:28 ParseConfig.py[line:76] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-16 15:40:28.086000
+
+Tue, 16 May 2017 15:40:28 ParseConfig.py[line:74] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Tue, 16 May 2017 15:40:28 ParseConfig.py[line:76] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-16 15:40:28.526000
+
+Tue, 16 May 2017 15:43:57 ParseConfig.py[line:76] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-16 15:43:57.241000
+
+Tue, 16 May 2017 15:43:57 ParseConfig.py[line:74] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Tue, 16 May 2017 15:43:57 ParseConfig.py[line:76] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-16 15:43:57.711000
+
+Wed, 17 May 2017 19:06:10 ParseConfig.py[line:76] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-17 19:06:10.779000
+
+Wed, 17 May 2017 19:06:10 ParseConfig.py[line:74] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Wed, 17 May 2017 19:06:13 ParseConfig.py[line:76] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-17 19:06:13.182000
+
