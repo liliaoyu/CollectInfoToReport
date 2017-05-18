@@ -32,3 +32,611 @@ Wed, 17 May 2017 19:06:10 ParseConfig.py[line:74] INFO strAbsolutePathDefault = 
 
 Wed, 17 May 2017 19:06:13 ParseConfig.py[line:76] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-17 19:06:13.182000
 
+Thu, 18 May 2017 11:35:04 ParseConfig.py[line:76] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 11:35:04.102000
+
+Thu, 18 May 2017 11:35:04 ParseConfig.py[line:74] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 11:35:06 ParseConfig.py[line:76] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 11:35:06.100000
+
+Thu, 18 May 2017 13:14:53 ParseConfig.py[line:76] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 13:14:53.323000
+
+Thu, 18 May 2017 13:14:53 ParseConfig.py[line:74] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 13:14:54 ParseConfig.py[line:76] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 13:14:54.832000
+
+Thu, 18 May 2017 13:17:53 ParseConfig.py[line:76] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 13:17:53.918000
+
+Thu, 18 May 2017 13:17:53 ParseConfig.py[line:74] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 13:18:44 ParseConfig.py[line:76] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 13:18:44.048000
+
+Thu, 18 May 2017 13:18:44 ParseConfig.py[line:74] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 13:18:44 ParseConfig.py[line:76] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 13:18:44.824000
+
+Thu, 18 May 2017 13:33:51 ParseConfig.py[line:79] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 13:33:51.829000
+
+Thu, 18 May 2017 13:33:51 ParseConfig.py[line:77] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 13:33:51 ParseConfig.py[line:77] INFO strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:77] INFO nRowSource, nColSource, nRowTarget, nColTarget = 226, 91, 1
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:77] INFO nRowSource, nColSource, nRowTarget, nColTarget = 227, 92, 1
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:77] INFO nRowSource, nColSource, nRowTarget, nColTarget = 228, 93, 1
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:77] INFO strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:77] INFO nRowSource, nColSource, nRowTarget, nColTarget = 27, 121, 2
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:77] INFO nRowSource, nColSource, nRowTarget, nColTarget = 28, 122, 2
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:77] INFO nRowSource, nColSource, nRowTarget, nColTarget = 29, 123, 2
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:77] INFO strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:77] INFO nRowSource, nColSource, nRowTarget, nColTarget = 11, 181, 3
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:77] INFO nRowSource, nColSource, nRowTarget, nColTarget = 12, 182, 3
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:77] INFO nRowSource, nColSource, nRowTarget, nColTarget = 13, 183, 3
+
+Thu, 18 May 2017 13:33:52 ParseConfig.py[line:79] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 13:33:52.686000
+
+Thu, 18 May 2017 13:39:34 ParseConfig.py[line:79] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 13:39:34.990000
+
+Thu, 18 May 2017 13:39:34 ParseConfig.py[line:77] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 13:39:34 ParseConfig.py[line:79] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 91, 1
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 92, 1
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 93, 1
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 121, 2
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 122, 2
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 123, 2
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 181, 3
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 182, 3
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 183, 3
+
+Thu, 18 May 2017 13:39:35 ParseConfig.py[line:79] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 13:39:35.385000
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 13:41:45.557000
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:78] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:78] INFO 3
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 91, 1
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 92, 1
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 93, 1
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 121, 2
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 122, 2
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 123, 2
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 181, 3
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 182, 3
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 183, 3
+
+Thu, 18 May 2017 13:41:45 ParseConfig.py[line:80] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 13:41:45.980000
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:80] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 13:42:54.510000
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:78] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:78] INFO 4
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 91, 1
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 92, 1
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 93, 1
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 121, 2
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 122, 2
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 123, 2
+
+Thu, 18 May 2017 13:42:54 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 13:42:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 181, 3
+
+Thu, 18 May 2017 13:42:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 182, 3
+
+Thu, 18 May 2017 13:42:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 183, 3
+
+Thu, 18 May 2017 13:42:55 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx, TestCases, 122|8
+
+Thu, 18 May 2017 13:42:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 81, 4
+
+Thu, 18 May 2017 13:42:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 82, 4
+
+Thu, 18 May 2017 13:42:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 124, 83, 4
+
+Thu, 18 May 2017 13:42:55 ParseConfig.py[line:80] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 13:42:55.195000
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:80] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 13:43:54.559000
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:78] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:78] INFO 4
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 91, 1
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 92, 1
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 93, 1
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 121, 2
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 122, 2
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 123, 2
+
+Thu, 18 May 2017 13:43:54 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 13:43:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 181, 3
+
+Thu, 18 May 2017 13:43:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 182, 3
+
+Thu, 18 May 2017 13:43:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 183, 3
+
+Thu, 18 May 2017 13:43:55 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx, TestCases, 121|8
+
+Thu, 18 May 2017 13:43:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 121, 81, 4
+
+Thu, 18 May 2017 13:43:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 82, 4
+
+Thu, 18 May 2017 13:43:55 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 83, 4
+
+Thu, 18 May 2017 13:43:55 ParseConfig.py[line:80] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 13:43:55.184000
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 13:46:17.020000
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:78] INFO strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:78] INFO No. of iteration = 4
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 91, 1
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 92, 1
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 93, 1
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 121, 2
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 122, 2
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 123, 2
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 181, 3
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 182, 3
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 183, 3
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx, TestCases, 121|8
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 121, 81, 4
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 82, 4
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 83, 4
+
+Thu, 18 May 2017 13:46:17 ParseConfig.py[line:80] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 13:46:17.504000
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 13:47:42.093000
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:78] INFO No. of source files = 4
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 91, 1
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 92, 1
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 93, 1
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 121, 2
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 122, 2
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 123, 2
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 181, 3
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 182, 3
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 183, 3
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx, TestCases, 121|8
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 121, 81, 4
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 82, 4
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 83, 4
+
+Thu, 18 May 2017 13:47:42 ParseConfig.py[line:80] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 13:47:42.755000
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 13:53:21.390000
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:78] INFO No. of source files = 4
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 91, 1
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 92, 1
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 93, 1
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 121, 2
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 122, 2
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 123, 2
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 181, 3
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 182, 3
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 183, 3
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx, TestCases, 121|8
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 121, 81, 4
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 82, 4
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 83, 4
+
+Thu, 18 May 2017 13:53:21 ParseConfig.py[line:80] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 13:53:21.935000
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:90] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 14:16:59.364000
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:90] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:88] INFO No. of source files = 4
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:90] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 91, 1
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 92, 1
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 93, 1
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:90] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 121, 2
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 122, 2
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 123, 2
+
+Thu, 18 May 2017 14:16:59 ParseConfig.py[line:90] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 14:17:00 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 181, 3
+
+Thu, 18 May 2017 14:17:00 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 182, 3
+
+Thu, 18 May 2017 14:17:00 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 183, 3
+
+Thu, 18 May 2017 14:17:00 ParseConfig.py[line:90] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx, TestCases, 121|8
+
+Thu, 18 May 2017 14:17:00 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 121, 81, 4
+
+Thu, 18 May 2017 14:17:00 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 82, 4
+
+Thu, 18 May 2017 14:17:00 ParseConfig.py[line:90] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 83, 4
+
+Thu, 18 May 2017 14:17:00 ParseConfig.py[line:90] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 14:17:00.232000
+
+Thu, 18 May 2017 14:18:37 ParseConfig.py[line:90] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 14:18:37.806000
+
+Thu, 18 May 2017 14:18:37 ParseConfig.py[line:88] INFO No. of source files = 4
+
+Thu, 18 May 2017 14:18:37 ParseConfig.py[line:90] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 14:28:10 ParseConfig.py[line:90] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 14:28:10.967000
+
+Thu, 18 May 2017 14:28:59 ParseConfig.py[line:90] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 14:28:59.949000
+
+Thu, 18 May 2017 14:28:59 ParseConfig.py[line:90] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 15:06:43 ParseConfig.py[line:92] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 15:06:43.605000
+
+Thu, 18 May 2017 15:06:43 ParseConfig.py[line:92] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 15:07:35 ParseConfig.py[line:91] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 15:07:35.399000
+
+Thu, 18 May 2017 15:07:35 ParseConfig.py[line:91] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 15:07:35 ParseConfig.py[line:89] INFO No. of source files = 4
+
+Thu, 18 May 2017 15:07:35 ParseConfig.py[line:91] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 15:07:37 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 91, 1
+
+Thu, 18 May 2017 15:07:37 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 92, 1
+
+Thu, 18 May 2017 15:07:37 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 93, 1
+
+Thu, 18 May 2017 15:07:37 ParseConfig.py[line:91] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 15:07:37 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 121, 2
+
+Thu, 18 May 2017 15:07:37 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 122, 2
+
+Thu, 18 May 2017 15:07:37 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 123, 2
+
+Thu, 18 May 2017 15:07:37 ParseConfig.py[line:91] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 15:07:38 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 181, 3
+
+Thu, 18 May 2017 15:07:38 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 182, 3
+
+Thu, 18 May 2017 15:07:38 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 183, 3
+
+Thu, 18 May 2017 15:07:38 ParseConfig.py[line:91] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx, TestCases, 121|8
+
+Thu, 18 May 2017 15:07:38 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 121, 81, 4
+
+Thu, 18 May 2017 15:07:38 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 82, 4
+
+Thu, 18 May 2017 15:07:38 ParseConfig.py[line:91] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 83, 4
+
+Thu, 18 May 2017 15:07:38 ParseConfig.py[line:91] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 15:07:38.433000
+
+Thu, 18 May 2017 15:31:45 ParseConfig.py[line:94] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 15:31:45.089000
+
+Thu, 18 May 2017 15:31:45 ParseConfig.py[line:94] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 15:31:45 ParseConfig.py[line:92] INFO No. of source files = 4
+
+Thu, 18 May 2017 15:31:45 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 9, 1, 1
+
+Thu, 18 May 2017 15:31:45 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 9, 2, 1
+
+Thu, 18 May 2017 15:31:45 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 9, 3, 1
+
+Thu, 18 May 2017 15:31:45 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 12, 1, 2
+
+Thu, 18 May 2017 15:31:45 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 12, 2, 2
+
+Thu, 18 May 2017 15:31:45 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 12, 3, 2
+
+Thu, 18 May 2017 15:31:46 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 18, 1, 3
+
+Thu, 18 May 2017 15:31:46 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 18, 2, 3
+
+Thu, 18 May 2017 15:31:46 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 18, 3, 3
+
+Thu, 18 May 2017 15:31:46 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 121, 8, 1, 4
+
+Thu, 18 May 2017 15:31:46 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 8, 2, 4
+
+Thu, 18 May 2017 15:31:46 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 8, 3, 4
+
+Thu, 18 May 2017 15:31:46 ParseConfig.py[line:94] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 15:31:46.395000
+
+Thu, 18 May 2017 15:32:37 ParseConfig.py[line:94] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 15:32:37.693000
+
+Thu, 18 May 2017 15:32:37 ParseConfig.py[line:94] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 15:32:37 ParseConfig.py[line:92] INFO No. of source files = 4
+
+Thu, 18 May 2017 15:32:37 ParseConfig.py[line:94] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 15:32:37 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 9, 1, 1
+
+Thu, 18 May 2017 15:32:37 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 9, 2, 1
+
+Thu, 18 May 2017 15:32:37 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 9, 3, 1
+
+Thu, 18 May 2017 15:32:37 ParseConfig.py[line:94] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 12, 1, 2
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 12, 2, 2
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 12, 3, 2
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 18, 1, 3
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 18, 2, 3
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 18, 3, 3
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx, TestCases, 121|8
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 121, 8, 1, 4
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 8, 2, 4
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 8, 3, 4
+
+Thu, 18 May 2017 15:32:38 ParseConfig.py[line:94] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 15:32:38.641000
+
+Thu, 18 May 2017 15:34:15 ParseConfig.py[line:95] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 15:34:15.231000
+
+Thu, 18 May 2017 15:34:15 ParseConfig.py[line:95] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 15:34:15 ParseConfig.py[line:93] INFO No. of source files = 4
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 15:35:39.201000
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:90] INFO No. of source files = 4
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 9, 1, 1
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 9, 2, 1
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 9, 3, 1
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 12, 1, 2
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 12, 2, 2
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 12, 3, 2
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 18, 1, 3
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 18, 2, 3
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 18, 3, 3
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx, TestCases, 121|8
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 121, 8, 1, 4
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 8, 2, 4
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 8, 3, 4
+
+Thu, 18 May 2017 15:35:39 ParseConfig.py[line:92] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 15:35:39.846000
+
+Thu, 18 May 2017 15:38:18 ParseConfig.py[line:93] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 15:38:18.953000
+
+Thu, 18 May 2017 15:38:18 ParseConfig.py[line:93] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 15:38:18 ParseConfig.py[line:91] INFO No. of source files = 4
+
+Thu, 18 May 2017 15:38:18 ParseConfig.py[line:93] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 9, 1, 1
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 9, 2, 1
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 9, 3, 1
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 12, 1, 2
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 12, 2, 2
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 12, 3, 2
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 18, 1, 3
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 18, 2, 3
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 18, 3, 3
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx, TestCases, 121|8
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 121, 8, 1, 4
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 8, 2, 4
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 8, 3, 4
+
+Thu, 18 May 2017 15:38:19 ParseConfig.py[line:93] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 15:38:19.465000
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG >>>>>>>> Starting ParseConfig.py @ 2017-05-18 15:41:57.058000
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG strAbsolutePathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:91] INFO No. of source files = 4
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_ASE_Test_Plan.xlsx, TestCases, 226|9
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 226, 9, 1, 1
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 227, 9, 2, 1
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 228, 9, 3, 1
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_CWM_Test_Plan.xlsx, TestCases, 27|12
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 27, 12, 1, 2
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 28, 12, 2, 2
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 29, 12, 3, 2
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, TestCases, 11|18
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 11, 18, 1, 3
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 12, 18, 2, 3
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 13, 18, 3, 3
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG strFileLocation, strSheetName, listAnchor_NoSplit = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx, TestCases, 121|8
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 121, 8, 1, 4
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 122, 8, 2, 4
+
+Thu, 18 May 2017 15:41:57 ParseConfig.py[line:93] DEBUG nRowSource, nColSource, nRowTarget, nColTarget = 123, 8, 3, 4
+
+Thu, 18 May 2017 15:41:58 ParseConfig.py[line:93] DEBUG <<<<<<<< Ending ParseConfig.py @ 2017-05-18 15:41:58.036000
+

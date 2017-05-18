@@ -11,24 +11,13 @@ def ParseTxt(strFileNameConf):
     for strLine in oFile:
         strLine = strLine.replace('\n', '')
         listPair = strLine.split('=')
-
-        #### replace pre-defined string
-        if 'AbsolutePathDefault' in listPair[0]:
-            strAbsolutePathDefault = listPair[1].strip()
+        if listPair[0] == 'AbsolutePathDefault':
+            strAbsolutePathDefault = listPair[1]
             oMyLog.debug('strAbsolutePathDefault = ' + strAbsolutePathDefault)
         if 'AbsolutePath' in listPair[1]:
             listPair[1] = listPair[1].replace('AbsolutePath', strAbsolutePathDefault)
-
-        #### strip key & value of conf
-        strKeyConf = listPair[0].strip()
-        listValueConf = listPair[1].split(',')
-        listTmp = []
-        for strItem in listValueConf:
-            strItem = strItem.strip()
-            listTmp.append(strItem)
-        listValueConf = listTmp
-
-        dictLine = {strKeyConf: listValueConf}
+        listPair[1] = listPair[1].split(',')
+        dictLine = {listPair[0]: listPair[1]}
         dictConf.update(dictLine)
         # print(dictConf)
     oFile.close()
@@ -44,9 +33,8 @@ def UpdateXls(dictConf):
         strFileLocation = dictConf.get('AbsolutePaths')[nIndex] + dictConf.get('FileNames')[nIndex]
         strSheetName = dictConf.get('SheetNames')[nIndex]
         listAnchor = dictConf.get('Anchors')[nIndex].split('|')
-        strDelimiter = ', '
-        listTmp = [strFileLocation, strSheetName, dictConf.get('Anchors')[nIndex]]
-        oMyLog.debug('strFileLocation, strSheetName, listAnchor_NoSplit = ' + strDelimiter.join(listTmp))
+        oMyLog.debug('strFileLocation, strSheetName, listAnchor_NoSplit = ' \
+                    + strFileLocation + ', ' + strSheetName + ', ' + dictConf.get('Anchors')[nIndex])
 
         #### update oWorkbookTarget from oWorkbookSource
         oWorkbookSource = xlrd.open_workbook(strFileLocation)
@@ -58,11 +46,10 @@ def UpdateXls(dictConf):
             nColSource = int(listAnchor[1])
             nRowTarget = nRow + 1
             nColTarget = nIndex + 1
+            oMyLog.debug('nRowSource, nColSource, nRowTarget, nColTarget = ' \
+                        + str(nRowSource) + ', ' + str(nColSource) + str(nRowTarget) + ', ' + str(nColTarget))
             oSheetTarget.write(nRowTarget, 0, strItems[nRow])
             oSheetTarget.write(nRowTarget, nColTarget, oSheetSource.cell(nRowSource, nColSource).value)
-            strDelimiter = ', '
-            listTmp = [str(nRowSource), str(nColSource), str(nRowTarget), str(nColTarget)]
-            oMyLog.debug('nRowSource, nColSource, nRowTarget, nColTarget = ' + strDelimiter.join(listTmp))
 
     oWorkbookTarget.save(strFileNameTargetXls)
     return oWorkbookTarget
