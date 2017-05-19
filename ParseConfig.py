@@ -3,46 +3,52 @@
 import xlrd, xlwt, logging
 from datetime import datetime
 
+
 def ParseTxt(strFileNameConf):
-    oFile = open(strFileNameConf, "r")
     dictConfConst = {}
     dictConfParam = {}
-
-    #### transform txt into dict
-    for strLine in oFile:
-        strLine = strLine.strip()
-        if len(strLine) == 0:
-            oMyLog.debug('blank line is detected & ignored.')
-        elif strLine[0] == '#':
-            oMyLog.debug(strLine)
-        else:
-            strLine = strLine.replace('\n', '')
-            listPair = strLine.split('=')
-
-            if 'Constant' in listPair[0]:
-                strKeyConst = listPair[0].strip()
-                strValueConst = listPair[1].strip()
-                dictLineConst = {strKeyConst: strValueConst}
-                dictConfConst.update(dictLineConst)
-                # print(dictConfConst)
+    try:
+        oFile = open(strFileNameConf, "r")
+    except:
+        tupleException = sys.exc_info()
+        oMyLog.critical(tupleException[0] + tupleException[1] + tupleException[2])
+    else:
+        #### transform txt into dict
+        for strLine in oFile:
+            strLine = strLine.strip()
+            if len(strLine) == 0:
+                oMyLog.debug('blank line is detected & ignored.')
+            elif strLine[0] == '#':
+                oMyLog.debug(strLine)
             else:
-                #### replace all the pre-defined constants
-                for strKey in dictConfConst.keys():
-                    if strKey in listPair[1]:
-                        listPair[1] = listPair[1].replace(strKey, dictConfConst.get(strKey))
-                strKeyParam =  listPair[0].strip()
-                listValueParam = listPair[1].split(',')
-                listTmp = []
-                for strValueParam in listValueParam:
-                    strValueParam = strValueParam.strip()
-                    listTmp.append(strValueParam)
-                listValueParam = listTmp
-                dictLineParam = {strKeyParam: listValueParam}
-                dictConfParam.update(dictLineParam)
-                # print(dictConfParam)
+                strLine = strLine.replace('\n', '')
+                listPair = strLine.split('=')
 
-    oFile.close()
+                if 'Constant' in listPair[0]:
+                    strKeyConst = listPair[0].strip()
+                    strValueConst = listPair[1].strip()
+                    dictLineConst = {strKeyConst: strValueConst}
+                    dictConfConst.update(dictLineConst)
+                    # print(dictConfConst)
+                else:
+                    #### replace all the pre-defined constants
+                    for strKey in dictConfConst.keys():
+                        if strKey in listPair[1]:
+                            listPair[1] = listPair[1].replace(strKey, dictConfConst.get(strKey))
+                    strKeyParam =  listPair[0].strip()
+                    listValueParam = listPair[1].split(',')
+                    listTmp = []
+                    for strValueParam in listValueParam:
+                        strValueParam = strValueParam.strip()
+                        listTmp.append(strValueParam)
+                    listValueParam = listTmp
+                    dictLineParam = {strKeyParam: listValueParam}
+                    dictConfParam.update(dictLineParam)
+                    # print(dictConfParam)
+    finally:
+        oFile.close()
     return dictConfParam, dictConfConst
+
 
 def UpdateXls(dictConf):
     oMyLog.info('updating XLS...')
@@ -65,6 +71,7 @@ def UpdateXls(dictConf):
 
     oWorkbookTarget.save(strFileNameTargetXls)
     return oWorkbookTarget
+
 
 def UpdateXlsCells(strFlag, nFile, nRow, oSheetTarget):
     oMyLog.info('updating XLS cells of Row_No.' + str(nRow) + ' from File_No.' + str(nFile) + '...')
@@ -102,6 +109,7 @@ def UpdateXlsCells(strFlag, nFile, nRow, oSheetTarget):
     oMyLog.debug('nRowSource, nColSource, nRowTarget, nColTarget = ' + strDelimiter.join(listTmp))
     return strFileLocation
 
+
 class MyLog(object):
     def __init__(self):
         logging.basicConfig(level=logging.DEBUG,
@@ -118,12 +126,16 @@ class MyLog(object):
 
     def critical(self, strMsg):
         logging.critical(strMsg)
+
     def error(self, strMsg):
         logging.error(strMsg)
+
     def warning(self, strMsg):
         logging.warning(strMsg)
+
     def info(self, strMsg):
         logging.info(strMsg)
+
     def debug(self, strMsg):
         logging.debug(strMsg)
 
