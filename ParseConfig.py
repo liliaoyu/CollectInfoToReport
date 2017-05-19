@@ -1,41 +1,45 @@
 # -*- coding: utf-8 -*-
 
-import os, re, xlrd, xlwt, logging
+import xlrd, xlwt, logging
 from datetime import datetime
 
 def ParseTxt(strFileNameConf):
     oFile = open(strFileNameConf, "r")
     dictConfConst = {}
     dictConfParam = {}
-    dictConf = {}
-    strAbsolutePathDefault = ''
 
     #### transform txt into dict
     for strLine in oFile:
-        strLine = strLine.replace('\n', '')
-        listPair = strLine.split('=')
-
-        if 'Constant' in listPair[0]:
-            strKeyConst = listPair[0].strip()
-            strValueConst = listPair[1].strip()
-            dictLineConst = {strKeyConst: strValueConst}
-            dictConfConst.update(dictLineConst)
-            # print(dictConfConst)
+        strLine = strLine.strip()
+        if len(strLine) == 0:
+            oMyLog.debug('blank line is detected & ignored.')
+        elif strLine[0] == '#':
+            oMyLog.debug(strLine)
         else:
-            #### replace all the pre-defined constants
-            for strKey in dictConfConst.keys():
-                if strKey in listPair[1]:
-                    listPair[1] = listPair[1].replace(strKey, dictConfConst.get(strKey))
-            strKeyParam =  listPair[0].strip()
-            listValueParam = listPair[1].split(',')
-            listTmp = []
-            for strValueParam in listValueParam:
-                strValueParam = strValueParam.strip()
-                listTmp.append(strValueParam)
-            listValueParam = listTmp
-            dictLineParam = {strKeyParam: listValueParam}
-            dictConfParam.update(dictLineParam)
-            # print(dictConfParam)
+            strLine = strLine.replace('\n', '')
+            listPair = strLine.split('=')
+
+            if 'Constant' in listPair[0]:
+                strKeyConst = listPair[0].strip()
+                strValueConst = listPair[1].strip()
+                dictLineConst = {strKeyConst: strValueConst}
+                dictConfConst.update(dictLineConst)
+                # print(dictConfConst)
+            else:
+                #### replace all the pre-defined constants
+                for strKey in dictConfConst.keys():
+                    if strKey in listPair[1]:
+                        listPair[1] = listPair[1].replace(strKey, dictConfConst.get(strKey))
+                strKeyParam =  listPair[0].strip()
+                listValueParam = listPair[1].split(',')
+                listTmp = []
+                for strValueParam in listValueParam:
+                    strValueParam = strValueParam.strip()
+                    listTmp.append(strValueParam)
+                listValueParam = listTmp
+                dictLineParam = {strKeyParam: listValueParam}
+                dictConfParam.update(dictLineParam)
+                # print(dictConfParam)
 
     oFile.close()
     return dictConfParam, dictConfConst
@@ -69,7 +73,7 @@ def UpdateXlsCells(strFlag, nFile, nRow, oSheetTarget):
     elif strFlag == 'FEAT':
         strPaths, strFiles, strSheets, strAhchors = 'FeatPaths', 'FeatFileNames', 'FeatSheetNames', 'FeatAnchors'
     else:
-        oMylog.critical('invalid strFlag as: ' + strFlag)
+        oMyLog.critical('invalid strFlag as: ' + strFlag)
 
     strFileLocation = dictConfParam.get(strPaths)[nFile] + dictConfParam.get(strFiles)[nFile]
     strSheetName = dictConfParam.get(strSheets)[nFile]
@@ -86,7 +90,7 @@ def UpdateXlsCells(strFlag, nFile, nRow, oSheetTarget):
     elif strFlag == 'FEAT':
         nRowSource = int(listAnchor[0]) - 1
     else:
-        oMylog.critical('invalid strFlag as: ' + strFlag)
+        oMyLog.critical('invalid strFlag as: ' + strFlag)
     nColSource = int(listAnchor[1]) - 1
     nRowTarget = nRow + 1
     nColTarget = nFile + 1
@@ -126,7 +130,8 @@ class MyLog(object):
 if __name__ == '__main__':
     oMyLog = MyLog()
     # print(datetime.today())
-    oMyLog.debug('>>>>>>>> Starting ParseConfig.py @ ' + str(datetime.today()))
+    oMyLog.debug('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>')
+    oMyLog.debug('Starting ParseConfig.py @ ' + str(datetime.today()))
     # strFilePath = 'D:\Technical_Document\44_Automation\Python\Scripts\Projects\CollectInfoToReport'
     strFileNameConf = 'Config.txt'
     strFileNameTargetXls = 'Report' + '_' + datetime.strftime(datetime.today(), '%Y%m%d_%H%M%S') + '.xls'
@@ -137,4 +142,5 @@ if __name__ == '__main__':
     print(dictConfConst)
     UpdateXls(dictConfParam)
     # print(datetime.today())
-    oMyLog.debug('<<<<<<<< Ending ParseConfig.py @ '+ str(datetime.today()))
+    oMyLog.debug('Ending ParseConfig.py @ '+ str(datetime.today()))
+    oMyLog.debug('<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<\n')
