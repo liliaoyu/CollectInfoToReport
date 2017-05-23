@@ -103,10 +103,10 @@ def UpdateXlsCells(strFlag, nFile, nRow, oSheetTarget):
     nColTarget = nFile + 1
 
     #### update oWorkbookTarget from oWorkbookSource
-    oSheetTarget.write(nRowTarget, nColTarget, oSheetSource.cell(nRowSource, nColSource).value)
     strDelimiter = ', '
-    listTmp = [str(nRowSource), str(nColSource), str(nRowTarget), str(nColTarget)]
+    listTmp = [str(nRowSource), str(nColSource), str(nRowTarget), str(nColTarget), str(oSheetSource.cell(nRowSource, nColSource).value)]
     oMyLog.debug('nRowSource, nColSource, nRowTarget, nColTarget = ' + strDelimiter.join(listTmp))
+    oSheetTarget.write(nRowTarget, nColTarget, oSheetSource.cell(nRowSource, nColSource).value)
     return strFileLocation
 
 
@@ -156,3 +156,21 @@ if __name__ == '__main__':
     # print(datetime.today())
     oMyLog.debug('Ending ParseConfig.py @ '+ str(datetime.today()))
     oMyLog.debug('<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<\n')
+
+# #### Config.txt
+# #### TP (Anchors count  from 1)
+# Constant_TpPathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Test Plan\
+# AbsolutePaths = Constant_TpPathDefault, Constant_TpPathDefault, Constant_TpPathDefault, Constant_TpPathDefault
+# FileNames = R17.1_VIT_ASE_Test_Plan.xlsx,R17.1_VIT_CWM_Test_Plan.xlsx, R17.1 VIT SLTE Multi Functional Module Test Plan.xlsm, R17.1_VIT_Direct_FRM-FRM_Express_using_MPO_cables_Test_Plan.xlsx
+# SheetNames = TestCases, TestCases, TestCases, TestCases
+# Anchors = 227|10, 28|13, 12|19, 75|9
+#
+# #### FEAT (FeatAnchors count from 1)
+# Constant_FeatPathDefault = F:\p4_perforce1666_CH-LLI-LT\depot\Projects\DAWN\Documents\SwTest\NE\R17.1\VIT\Automation\
+# Constant_FeatFileName = R17.1 ILS FEAT report.xlsx
+# FeatPaths = Constant_FeatPathDefault, Constant_FeatPathDefault, Constant_FeatPathDefault, Constant_FeatPathDefault
+# FeatFileNames = Constant_FeatFileName, Constant_FeatFileName, Constant_FeatFileName, Constant_FeatFileName
+# FeatSheetNames = SI-ASEM, SI-CWM-4, SI-MFM, MPO-Direct-Connection
+# FeatAnchors = 26|2, 4|2, 25|2, 25|2
+
+
